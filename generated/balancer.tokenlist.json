@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-06-21T15:35:20.947Z",
+    "timestamp": "2023-06-21T15:40:24.210Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7904,6 +7904,13 @@
             "symbol": "DOLA",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/14287/large/dola.png?1667738374"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x6CDA1D3D092811b2d48F7476adb59A6239CA9b95",
+            "name": "StaFi",
+            "symbol": "rETH",
+            "decimals": 18
         },
         {
             "chainId": 42161,
